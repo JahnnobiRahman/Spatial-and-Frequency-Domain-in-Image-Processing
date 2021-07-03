@@ -19,10 +19,8 @@ While frequency domain filters can be simpler than their spatial domain equivale
 | Smoothening in Spatial Domain     | Sharpening in Spatial Domain     |
 |------------|-------------|
 |<img src="smooth.png" width="250"> | <img src="sharp.png" width="250">|
-|             |           |
+|             |            |
 |Smoothening in Frequency Domain    | Sharpening in Frequency Domain    |
-|------------|-------------|
+|             |            |
 |<img src="low pass frequency domain.png" width="400"> | <img src="high frequncy.png" width="400">|
-|------------|-------------|
-
-|            |               |
+|             |            |
