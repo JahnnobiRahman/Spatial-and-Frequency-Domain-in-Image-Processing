@@ -12,7 +12,7 @@ While frequency domain filters can be simpler than their spatial domain equivale
 
 
 #The Original Image
-<img src="final_pic.jpg" width="250">
+<img src="final_pic.jpg" width="600">
 
 
 
